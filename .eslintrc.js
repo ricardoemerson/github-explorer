@@ -36,6 +36,7 @@ module.exports = {
     'react/jsx-curly-spacing': [2, { 'when': 'always', 'allowMultiline': true }],
     '@typescript-eslint/explicit-function-return-type': ['error', { 'allowExpressions': true }],
     'template-curly-spacing': ['error', 'always'],
+    'react/jsx-one-expression-per-line': 'off',
 
 
     'import-helpers/order-imports': [
